@@ -1,3 +1,8 @@
+
+![image](https://github.com/TanujJha/Crypto-Token-Wallet/assets/97455430/0cfdc4ed-780d-4af3-8806-d839f43c4413)
+![image](https://github.com/TanujJha/Crypto-Token-Wallet/assets/97455430/317612e1-b40f-418f-8468-b5937c1e5a5a)
+![image](https://github.com/TanujJha/Crypto-Token-Wallet/assets/97455430/21c95e83-bbb1-41d2-8e58-3e87f5be7095)
+
 # token
 
 Welcome to your new token project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
